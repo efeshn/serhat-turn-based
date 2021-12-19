@@ -123,6 +123,11 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!4 &251813218 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7378596523692989395, guid: ee7eafbda1be92a4b89dff8c4922b683, type: 3}
+  m_PrefabInstance: {fileID: 7378596522709640001}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &280535001
 GameObject:
   m_ObjectHideFlags: 0
@@ -1302,7 +1307,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b5db0be784f2f8941ad7d9ffe8abdef5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fireBullet: {fileID: 0}
+  fireBullet: {fileID: 251813218}
 --- !u!1 &1979939244
 GameObject:
   m_ObjectHideFlags: 0
